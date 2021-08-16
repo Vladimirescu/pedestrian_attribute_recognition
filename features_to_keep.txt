@@ -1,0 +1,61 @@
+2	accessoryHeadphone
+4	personalLess15
+5	personalLess30		Age16-30
+6	personalLess45		Age31-45
+7	personalLess60		Age46-60
+8	personalLarger60	AgeAbove60
+9	carryingBabyBuggy
+10	carryingBackpack	Backpack
+11	hairBald
+12	footwearBoots
+13	lowerBodyCapri
+14	carryingOther		CarryingOther
+15	carryingShoppingTro
+16	carryingUmbrella
+17	lowerBodyCasual		Casual lower
+18	upperBodyCasual		Casual upper
+19	personalFemale
+20	carryingFolder
+21	lowerBodyFormal		Formal lower
+22	upperBodyFormal		Formal upper
+23	accessoryHairBand
+24	accessoryHat		Hat
+25	lowerBodyHotPants
+26	upperBodyJacket		Jacket
+27	lowerBodyJeans		Jeans
+28	accessoryKerchief
+29	footwearLeatherShoes	Leather Shoes
+30	upperBodyLogo		Logo
+31	hairLong		Long hair
+32	lowerBodyLongSkirt
+33	upperBodyLongSleeve
+35	lowerBodyPlaid
+37	lowerBodyThinStripes
+38	carryingLuggageCase
+39	personalMale		Male
+40	carryingMessengerBag	MessengerBag
+41	accessoryMuffler	Muffler
+42	accessoryNothing	No accessory
+43	carryingNothing		No carrying
+44	upperBodyNoSleeve
+45	upperBodyPlaid		Plaid
+46	carryingPlasticBags	Plastic bag
+47	footwearSandals		Sandals
+48	footwearShoes		Shoes
+49	hairShort
+50	lowerBodyShorts		Shorts
+51	upperBodyShortSleeve	ShortSleeve
+52	lowerBodyShortSkirt	Skirt
+53	footwearSneaker		Sneaker
+54	footwearStocking
+55	upperBodyThinStripes	Stripes
+56	upperBodySuit
+57	carryingSuitcase
+58	lowerBodySuits
+59	accessorySunglasses	Sunglasses
+60	upperBodySweater
+61	upperBodyThickStripes
+62	lowerBodyTrousers	Trousers
+63	upperBodyTshirt		Tshirt
+64	upperBodyOther		UpperOther
+65	upperBodyVNeck		V-Neck
